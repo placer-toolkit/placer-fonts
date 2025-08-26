@@ -4,6 +4,7 @@
         url("./JetBrainsMono-Variable.woff") format("woff");
     font-family: 100 800;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -12,4 +13,5 @@
         url("./JetBrainsMono-VariableItalic.woff") format("woff");
     font-family: 100 800;
     font-style: italic;
+    font-display: swap;
 }

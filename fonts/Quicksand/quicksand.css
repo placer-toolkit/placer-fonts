@@ -4,4 +4,5 @@
         url("./Quicksand-Variable.woff") format("woff");
     font-family: 300 700;
     font-style: normal;
+    font-display: swap;
 }
