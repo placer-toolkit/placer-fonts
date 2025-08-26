@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url("./Quicksand-Variable.woff2") format("woff2"),
+        url("./Quicksand-Variable.woff") format("woff");
+    font-family: 300 700;
+    font-style: normal;
+}

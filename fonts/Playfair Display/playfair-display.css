@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Playfair Display";
+    src: url("./PlayfairDisplay-Variable.woff2") format("woff2"),
+        url("./PlayfairDisplay-Variable.woff") format("woff");
+    font-family: 400 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url("./PlayfairDisplay-VariableItalic.woff2") format("woff2"),
+        url("./PlayfairDisplay-VariableItalic.woff") format("woff");
+    font-family: 400 900;
+    font-style: italic;
+}
