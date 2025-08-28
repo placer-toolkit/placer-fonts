@@ -2,7 +2,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-Thin.woff2") format("woff2"),
         url("./IBMPlexMono-Thin.woff") format("woff");
-    font-family: 100;
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
@@ -11,7 +11,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-ThinItalic.woff2") format("woff2"),
         url("./IBMPlexMono-ThinItalic.woff") format("woff");
-    font-family: 100;
+    font-weight: 100;
     font-style: italic;
     font-display: swap;
 }
@@ -20,7 +20,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-ExtraLight.woff2") format("woff2"),
         url("./IBMPlexMono-ExtraLight.woff") format("woff");
-    font-family: 200;
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
@@ -29,7 +29,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-ExtraLightItalic.woff2") format("woff2"),
         url("./IBMPlexMono-ExtraLightItalic.woff") format("woff");
-    font-family: 200;
+    font-weight: 200;
     font-style: italic;
     font-display: swap;
 }
@@ -38,7 +38,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-Light.woff2") format("woff2"),
         url("./IBMPlexMono-Light.woff") format("woff");
-    font-family: 300;
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
@@ -47,7 +47,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-LightItalic.woff2") format("woff2"),
         url("./IBMPlexMono-LightItalic.woff") format("woff");
-    font-family: 300;
+    font-weight: 300;
     font-style: italic;
     font-display: swap;
 }
@@ -56,7 +56,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-Regular.woff2") format("woff2"),
         url("./IBMPlexMono-Regular.woff") format("woff");
-    font-family: 400;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
@@ -65,7 +65,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-RegularItalic.woff2") format("woff2"),
         url("./IBMPlexMono-RegularItalic.woff") format("woff");
-    font-family: 400;
+    font-weight: 400;
     font-style: italic;
     font-display: swap;
 }
@@ -74,7 +74,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-Medium.woff2") format("woff2"),
         url("./IBMPlexMono-Medium.woff") format("woff");
-    font-family: 500;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
@@ -83,7 +83,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-MediumItalic.woff2") format("woff2"),
         url("./IBMPlexMono-MediumItalic.woff") format("woff");
-    font-family: 500;
+    font-weight: 500;
     font-style: italic;
     font-display: swap;
 }
@@ -92,7 +92,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-SemiBold.woff2") format("woff2"),
         url("./IBMPlexMono-SemiBold.woff") format("woff");
-    font-family: 600;
+    font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
@@ -101,7 +101,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-SemiBoldItalic.woff2") format("woff2"),
         url("./IBMPlexMono-SemiBoldItalic.woff") format("woff");
-    font-family: 600;
+    font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
@@ -110,7 +110,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-Bold.woff2") format("woff2"),
         url("./IBMPlexMono-Bold.woff") format("woff");
-    font-family: 700;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
@@ -119,7 +119,7 @@
     font-family: "IBM Plex Mono";
     src: url("./IBMPlexMono-BoldItalic.woff2") format("woff2"),
         url("./IBMPlexMono-BoldItalic.woff") format("woff");
-    font-family: 700;
+    font-weight: 700;
     font-style: italic;
     font-display: swap;
 }

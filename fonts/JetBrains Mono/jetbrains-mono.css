@@ -2,7 +2,7 @@
     font-family: "JetBrains Mono";
     src: url("./JetBrainsMono-Variable.woff2") format("woff2"),
         url("./JetBrainsMono-Variable.woff") format("woff");
-    font-family: 100 800;
+    font-weight: 100 800;
     font-style: normal;
     font-display: swap;
 }
@@ -11,7 +11,7 @@
     font-family: "JetBrains Mono";
     src: url("./JetBrainsMono-VariableItalic.woff2") format("woff2"),
         url("./JetBrainsMono-VariableItalic.woff") format("woff");
-    font-family: 100 800;
+    font-weight: 100 800;
     font-style: italic;
     font-display: swap;
 }

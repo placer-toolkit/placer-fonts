@@ -2,7 +2,7 @@
     font-family: "Libertinus Math";
     src: url("./LibertinusMath-Regular.woff2") format("woff2"),
         url("./LibertinusMath-Regular.woff") format("woff");
-    font-family: 400;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
