@@ -1,6 +1,7 @@
 /* Fonts */
-@import url("./IBM Plex Mono/ibm-plex-mono.css");
-@import url("./JetBrains Mono/jetbrains-mono.css");
-@import url("./Libertinus Math/libertinus-math.css");
-@import url("./Playfair Display/playfair-display.css");
-@import url("./Quicksand/quicksand.css");
+@import "./IBM Plex Mono/ibm-plex-mono.css";
+@import "./Inter/inter.css";
+@import "./JetBrains Mono/jetbrains-mono.css";
+@import "./Libertinus Math/libertinus-math.css";
+@import "./Playfair Display/playfair-display.css";
+@import "./Quicksand/quicksand.css";
